@@ -1,2 +1,2 @@
 # sistema_gestao_vendas.py
-Esse é meu primeiro projeto em python. esse projeto consiste em um sistema de gestão de estoques para empresas
+Esse é meu primeiro projeto em python. É um sistema de gestão de estoque que é usada em empresas de logística
